@@ -1,0 +1,19 @@
+respiratory
+oxygen
+asthma
+copd
+emphysema
+lungs
+oximetry
+rsv
+ventilator
+ventilation
+breathing
+respiration
+croup
+cystic fibrosis
+albuterol
+xopenex
+mdi
+pneumonia
+
