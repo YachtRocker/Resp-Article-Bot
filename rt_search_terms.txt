@@ -1,12 +1,18 @@
 respiratory
+respiratory therapy
+respiratory therapist
 oxygen
 asthma
 copd
 emphysema
+bronchitis
 lungs
+lung
 oximetry
 rsv
 ventilator
+bipap
+cpap
 ventilation
 breathing
 respiration
@@ -16,4 +22,10 @@ albuterol
 xopenex
 mdi
 pneumonia
+incentive spirometry
+pulmonary
+inhalers
+inhale
+short of breath
+
 
